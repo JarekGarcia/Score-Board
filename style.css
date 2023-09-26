@@ -1,0 +1,41 @@
+.score-bg {
+    background-color: #152CF48A;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.text-align-center {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+.d-flex-reverse {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.number-bg {
+    background-color: #4F6AAE7A;
+    border-radius: 1rem;
+    background-size: 5rem;
+}
+
+.background-img {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/b8/Etihad_Stadium.jpg);
+    background-size: cover;
+}
+
+
+.main-width {
+    width: 33rem;
+    left: 30rem;
+}
+
+.position-relative {
+    position: relative;
+}
